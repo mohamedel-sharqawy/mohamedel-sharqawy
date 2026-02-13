@@ -23,8 +23,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /> 
 <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" /> 
 <img title="Excel" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" /> 
-<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.png" /> 
-<img title="Tableau" alt="Tableau" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tableau_Logo.png" />
+<img title="Power BI" alt="Power BI" width="40px" src="https://cdn-icons-png.flaticon.com/512/3291/3291672.png" /> 
+<img title="Tableau" alt="Tableau" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968400.png" />
 
 
 
