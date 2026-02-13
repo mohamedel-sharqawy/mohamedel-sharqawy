@@ -19,12 +19,14 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 
 ## Tools
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /> 
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /> 
-<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" /> 
-<img title="Excel" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" /> 
-<img title="Power BI" alt="Power BI" width="40px" src="https://cdn-icons-png.flaticon.com/512/3291/3291672.png" /> 
-<img title="Tableau" alt="Tableau" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968400.png" />
+<p align="left">
+  <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />&nbsp;&nbsp;
+  <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />&nbsp;&nbsp;
+  <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />&nbsp;&nbsp;
+  <img title="Excel" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />&nbsp;&nbsp;
+  <img title="Power BI" alt="Power BI" width="40px" src="https://microsoft.github.io/PowerBI-JavaScript/demo/v2/assets/img/pbi-logo.svg" />&nbsp;&nbsp;
+  <img title="Tableau" alt="Tableau" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" />
+</p>
 
 
 
