@@ -1,7 +1,6 @@
 
 <h1>Hi There, I'm Mohamed El-Sharqawy <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
- ## I’m Mohamed Elsharqawy,
 AI Engineer, and Data Scientist experienced in using Python, SQL, Power BI, and Excel to deliver actionable results.
 I help businesses and clients make data-driven decisions by analyzing complex datasets, building predictive models, and creating intuitive dashboards. I’m passionate about solving real-world problems with data and delivering high-quality solutions that make an impact.
 
