@@ -13,7 +13,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
 <img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-|--|--|
+
 
 
 **Libraries and Frameworks**
